@@ -3747,7 +3747,7 @@ databaseChangeLog:
   - changeSet:
       id: 59
       author: camsaul
-      comment: 'Added 0.25.2'
+      comment: 'Added 0.26.0'
       changes:
         - addColumn:
             tableName: metabase_field
@@ -3759,7 +3759,7 @@ databaseChangeLog:
   - changeSet:
       id: 60
       author: camsaul
-      comment: 'Added 0.25.2'
+      comment: 'Added 0.26.0'
       changes:
         - addColumn:
             tableName: metabase_database
